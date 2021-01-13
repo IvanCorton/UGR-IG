@@ -1,2 +1,2 @@
 # UGR-IG
-Prácticas de la asignatura Informática Gráfica (Universidad de Granada)
+Resources from Computer Graphics - Practises (University of Granada)
